@@ -1,16 +1,13 @@
-## 👋 Hi, I'm Zahid!
+## 👋 **Hi, I'm Zahid!**
 
-<!--
-**zahid2011/zahid2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="links.gif" alt="Network of Nodes" align="right" width="100" height="100">
 
-Here are some ideas to get you started:
+I am currently pursuing a **BSc. in Computing Science**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in **Software Development**, **AI/ML projects**, and **Web & Mobile Development**.
+
+## 🌐 **Technical Skills**
+- **Languages**: **Python**, **Java**, **C**, JavaScript, HTML, CSS  
+- **Frameworks/Libraries**: **React**, Node.js, Tailwind CSS  
+- **Databases**: **MongoDB**, **SQL**  
+- **Other**: Firebase, **Android Development**, Anime.js  
